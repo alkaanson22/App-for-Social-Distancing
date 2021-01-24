@@ -1,5 +1,5 @@
 # App-for-Social-Distancing
-# How AI can solve some of the problems posed by Covid , like AI@Covid Solutions
+## How AI can solve some of the problems posed by Covid , like AI@Covid Solutions
 ## Team : T850
 Alka Anson
 
@@ -35,7 +35,7 @@ An additional feature we like to add is given below, though the implementation i
 One way to avoid unnecessary crowding is by proactively detecting mounting traffic as it forms and mitigating risks. One way to do so is by assigning time-slots for people to go to a particular place .This will make sure that the number of people in a place would not exceed beyond what is mentioned. Here image processing can be used to identify and update the number of people currently present in a place. People will have the option to pre-book for a time slot and go there only during their assigned time. The number of people present in a place on a larger scale can be done using GPS tracking of phones.
 
 ### General Description
-architecture
+![alt text](https://raw.githubusercontent.com/NeomiSony/SocialDistancingApp/main/Socialapppics/diag.png)
 
 The solution is developed entirely on IBM Cloud using various Watson APIs namely Watson Assistant, Watson IOT platform and Watson Visual Recognition along with Node-RED. A database on Cloudant is required for storing the historical data of search location preferences and also the run time data. Node Red is a low-code development environment used for wiring the Watson and Cloudant components together. And finally we use the built in dashboard nodes that come with Node-RED to perform analysis on the data procured and give the crowd assessment at a particular location, alert beep of Covid positive patients nearby and a Chatbot for asking queries. This dashboard can be accessed by any user with the URL provided to access the Web Application or can be hosted as a Mobile Application for easier accessibility and use of the product.
 
@@ -111,7 +111,7 @@ As the Covid-19 situation kept worsening, countries around the world enforced st
 
 ● Expanding the project by visually representing object movement and hotspots on the app screen for selected location.
 
-# References:
+### References:
 • https://nodered.org/docs/
 
 • https://youtu.be/3gxMBtvsRFo
