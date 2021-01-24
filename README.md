@@ -9,7 +9,7 @@ Shebon Shajan
 
 Nikita Mathew
 
-# Introduction
+### Introduction
 The world is currently fighting one of the greatest battles of humanity - the Coronavirus battle. The World Health Organisation (WHO) has declared the COVID-19 a pandemic. A pandemic is defined as "occurring over a wide geographic area and affecting an exceptionally high proportion of the population". A global coordinated effort is needed to stop the further spread of the virus. Doctors, scientists, healthcare workers, and many others are putting their hearts and souls into finding a solution to end this pandemic. As this pandemic is still tremendous in many countries, the world after the pandemic will witness several major trends. As the world battles against COVID-19, every ounce of technological innovation utilized to fight this pandemic brings us one step closer to overcoming it. Artificial intelligence is playing a key role in better understanding and addressing the COVID-19 crisis. AI technology has been introduced already across various sectors. It is being used for analyzing medical data, preparing treatment plans, contact tracing, analyzing transmission rates, drug development, and detecting hotspots. AI is adept at identifying patterns from big data, and this piece will explain how it has become one of humanity's ace cards in handling this crisis. AI tools and techniques can help policymakers and the medical community understand the COVID-19 virus and accelerate research on treatments.
 
 # Problem Statement:
