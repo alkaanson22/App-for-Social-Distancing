@@ -1,6 +1,6 @@
 # App-for-Social-Distancing
 # How AI can solve some of the problems posed by Covid , like AI@Covid Solutions
-# Team : T850
+## Team : T850
 Alka Anson
 
 Neomi Sony
